@@ -1,12 +1,27 @@
 import { createWebHistory, createRouter } from "vue-router";
 
-import Home from './components/pages/Home.vue'
-// import About from './components/pages/About.vue'
-import HelloWorld from "./components/HelloWorld.vue";
+import About from './components/Pages/About.vue'
+import AddIdea from './components/pages/AddIdea.vue'
+import AddIssue from './components/pages/AddIssue.vue'
+import AddPriority from './components/pages/AddPriority.vue'
+import Ideas from './components/pages/Ideas.vue'
+import Issues from './components/pages/Issues.vue'
+import Priorities from './components/pages/Priorities.vue'
 
 const routes = [
-    { path: '/', component: Home },
     { path: '/about', component: About },
-    { path: '/hello', component: HelloWorld}
+    { path: '/add-idea', component: AddIdea },
+    { path: '/add-issue', component: AddIssue },
+    { path: '/add-priority', component: AddPriority },
+    { path: '/ideas', component: Ideas },
+    { path: '/issues', component: Issues },
+    { path: '/priorities', component: Priorities }
+
 ]
 
+const router = createRouter({
+    history: createWebHistory(),
+    routes,
+})
+
+export default router

@@ -1,16 +1,25 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import HamburgerMenu from './components/HamburgerMenu.vue'
 </script>
 
 <template>
-  <div>
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/add-idea">Add Idea</router-link> |
-      <router-link to="/post">Post</router-link> |
-      <router-link to="/about">About</router-link>
-    </nav>
+  <div class="app-container">
+    <header class="app-header">
+      <HamburgerMenu />
+      <router-link class="app-title app-title-button" to="/about">Student Voice App</router-link>
+      <div class="header-spacer" aria-hidden="true"></div>
+    </header>
 
-    <router-view />
+    <section class="app-panel">
+      <router-view />
+    </section>
+
+    <nav class="main-nav">
+      <router-link to="/ideas">Idea</router-link> |
+      <router-link to="/issues">Issue</router-link> |
+      <router-link to="/priorities">Priority</router-link>
+
+    </nav>
+    
   </div>
 </template>
