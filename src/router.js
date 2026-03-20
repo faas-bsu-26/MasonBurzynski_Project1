@@ -1,6 +1,6 @@
 import { createWebHistory, createRouter } from "vue-router";
 
-import About from './components/Pages/About.vue'
+import About from './components/pages/About.vue'
 import AddIdea from './components/pages/AddIdea.vue'
 import AddIssue from './components/pages/AddIssue.vue'
 import AddPriority from './components/pages/AddPriority.vue'
@@ -20,7 +20,7 @@ const routes = [
 ]
 
 const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHistory(import.meta.env.BASE_URL),
     routes,
 })
 
