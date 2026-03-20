@@ -1,7 +1,19 @@
 <template>
-  <div>
-    <h1>Add Idea Page</h1>
-    <p>asdf</p>
+  <div class="page-shell">
+    <h1>Add Idea</h1>
+    <p></p>
+    <div class="textBoxDisplay">
+      This is some static text inside a styled box.
+    </div>
+    <div class="textBoxDisplay">
+      This is some static text inside a styled box.
+    </div>
+    <div class="textBoxDisplay">
+      This is some static text inside a styled box.
+    </div>
+    <div class="actions">
+      <router-link class="page-button" to="/add-idea">Confirm</router-link>
+    </div>
   </div>
 </template>
 

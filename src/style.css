@@ -354,6 +354,18 @@ button:focus-visible {
   background: #005bbb;
 }
 
+.textBoxDisplay {
+  width: 300px;
+  height: auto;
+  border:  .1px solid #ddd4c8;
+  padding: 15px;
+  background-color: #fffdf8;
+  margin: 10px;
+  border-radius: 40px;
+  margin: 5rem 1rem 1rem;
+}
+
+
 @media (max-width: 640px) {
   .main-nav {
     flex-wrap: wrap;
