@@ -1,18 +1,18 @@
 <template>
   <div class="page-shell">
-    <h1>Add Issue</h1>
+    <h1>Add Issue Page</h1>
     <p></p>
     <div class="textBoxDisplay">
-      This is some static text inside a styled box.
+      Title
     </div>
     <div class="textBoxDisplay">
-      This is some static text inside a styled box.
+      Description
     </div>
     <div class="textBoxDisplay">
-      This is some static text inside a styled box.
+      Category
     </div>
     <div class="actions">
-      <router-link class="page-button" to="/add-issue">Confirm</router-link>
+      <router-link class="page-button" to="/add-issue-confirmation">Confirm</router-link>
     </div>
   </div>
 </template>

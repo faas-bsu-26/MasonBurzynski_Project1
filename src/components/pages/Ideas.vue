@@ -19,7 +19,7 @@
             <p class="meta">Student Voice Submission</p>
           </div>
         </div>
-        <p class="body">Add more shaded seating near the student center.</p>
+        <p class="body">Offer more meal plan options.</p>
       </article>
 
       <article class="post">
@@ -29,7 +29,7 @@
             <p class="meta">Student Voice Submission</p>
           </div>
         </div>
-        <p class="body">Create a late-night study lounge with charging stations.</p>
+        <p class="body">Add standing desks to the library.</p>
       </article>
 
       <article class="post">
@@ -39,7 +39,7 @@
             <p class="meta">Student Voice Submission</p>
           </div>
         </div>
-        <p class="body">Offer more campus events focused on commuter students.</p>
+        <p class="body">Extend library hours.</p>
       </article>
     </div>
 

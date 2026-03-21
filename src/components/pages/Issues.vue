@@ -9,7 +9,7 @@
             <p class="meta">Student Voice Submission</p>
           </div>
         </div>
-        <p class="body">Install more hammocks in the outdoor areas.</p>
+        <p class="body">Bad smell in TC bathroom.</p>
       </article>
 
       <article class="post">
@@ -19,7 +19,7 @@
             <p class="meta">Student Voice Submission</p>
           </div>
         </div>
-        <p class="body">Add more shaded seating near the student center.</p>
+        <p class="body">Slow wifi in lecture halls in AT building.</p>
       </article>
 
       <article class="post">
@@ -29,7 +29,7 @@
             <p class="meta">Student Voice Submission</p>
           </div>
         </div>
-        <p class="body">Create a late-night study lounge with charging stations.</p>
+        <p class="body">Unsafe crosswalk near Studebaker West.</p>
       </article>
 
       <article class="post">
@@ -39,7 +39,7 @@
             <p class="meta">Student Voice Submission</p>
           </div>
         </div>
-        <p class="body">Offer more campus events focused on commuter students.</p>
+        <p class="body">Overvrowded parking lots.</p>
       </article>
     </div>
 

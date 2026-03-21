@@ -9,7 +9,7 @@
             <p class="meta">Student Voice Submission</p>
           </div>
         </div>
-        <p class="body">Install more hammocks in the outdoor areas.</p>
+        <p class="body">Build a new parking garage on north side of campus.</p>
       </article>
 
       <article class="post">
@@ -19,7 +19,7 @@
             <p class="meta">Student Voice Submission</p>
           </div>
         </div>
-        <p class="body">Add more shaded seating near the student center.</p>
+        <p class="body">Upgrade campus lighting for safety.</p>
       </article>
 
       <article class="post">
@@ -29,7 +29,7 @@
             <p class="meta">Student Voice Submission</p>
           </div>
         </div>
-        <p class="body">Create a late-night study lounge with charging stations.</p>
+        <p class="body">Adding new equipment to fitness areas for health.</p>
       </article>
 
       <article class="post">
@@ -39,7 +39,7 @@
             <p class="meta">Student Voice Submission</p>
           </div>
         </div>
-        <p class="body">Offer more campus events focused on commuter students.</p>
+        <p class="body">Improving the campus wifi infrastructure.</p>
       </article>
     </div>
 

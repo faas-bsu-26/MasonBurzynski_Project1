@@ -29,7 +29,7 @@ const closeMenu = () => {
       </div>
 
       <nav class="side-menu-nav">
-        <button class="side-menu-link side-menu-link-bottom" type="button">Log out</button>
+        <router-link class="side-menu-link side-menu-link-bottom" to="/logout-confirmation" @click="closeMenu">Log out</router-link>
       </nav>
     </aside>
   </div>
